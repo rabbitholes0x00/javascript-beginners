@@ -1,12 +1,14 @@
 # README!
 * Name: `JavaScript`
-* Designed by: `Brendan Eich` at (location)
+* Designed by: `Brendan Eich` at `Netscape`
 * First appeared: `1995`
-* Paradigm:
-* Typing discipline: `dynamic` and `weak`
+* Paradigms: `event-driven`, `functional`, `imperative`
+* Typing & types discipline: `dynamic` and `weak`
 * Package manager: `npm`
 * Total keywords: `63`
-* Official sites: 
+* Official sites: `https://www.ecma-international.org` 
+* Docs sites: `https://developer.mozilla.org/en-US/docs/Web/JavaScript`
+* Learning Sites `https://developer.mozilla.org/en-US/docs/Web/JavaScript`
 
 You must know JavaScript history to learn JS deeply by watching this [Playlist](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI) by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
@@ -44,11 +46,3 @@ Folder installed in `~/.nvm/`
 Hello World!
 
 ## JavaScript, Important Concepts
-
-## Learning Sites
-* [JS.info](https://javascript.info/)
-* [NodeJS Tutorial - BezKoder](https://www.bezkoder.com/node-js-tutorial/)
-* [Belajar Dengan Jenius NodeJS - Gun Gun Febrianza](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js)
-
-## FAQ
-

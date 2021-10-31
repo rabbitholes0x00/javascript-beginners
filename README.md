@@ -8,7 +8,7 @@
 * Total keywords: `63`
 * Official sites: 
 
-You must watch JavaScript history to know JS deeply by watching this [playlist](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI) by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+You must know JavaScript history to learn JS deeply by watching this [Playlist](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI) by [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 
 ## JavaScript, Pros & Cons
 pros and cons in X
